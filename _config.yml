@@ -1,0 +1,28 @@
+name: jamestmather
+favicon: null
+layout_spectrum: 0.6918605917599052
+typography_spectrum: 0.3646152704022825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6888668900355697
+  lightness: 0.6044913264922798
+  saturation: 0.7989849490113556
+  rhythmicContrast: 0.9431122925598174
+purpose: []
